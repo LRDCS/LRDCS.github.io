@@ -1,7 +1,8 @@
 // Edit this file to personalise the site. Content is plain text, not HTML.
 window.portfolio = {
   name: 'Louis', // Add the name you want visitors to see.
-  introduction: 'This is my workspace for explaining what I learn in cybersecurity, game development, programming, and technical knowledge.',
+  introduction: 'I am a second year sixth form student that is interested in taking up cybersecurity as a career, as i believe that assisting in protecting the UK from the next wave of frontier-AI cyberattacks.',
+  aboutDescription: 'This website is a space to hold together all of my projects and learning notes, so that I can share them with anyone that needs them - either for help with their own learning or to get an idea of the things I am personally interested in.',
   cvUrl: '', // Example: 'assets/cv.pdf' — add the actual file before setting this.
   links: [], // Example: { label: 'GitHub', url: 'https://github.com/YOUR_USERNAME' }
   projects: [],
